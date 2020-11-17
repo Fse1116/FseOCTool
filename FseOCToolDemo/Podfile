@@ -7,6 +7,6 @@ target 'FseOCToolDemo' do
 
   # Pods for FseOCToolDemo
    
-pod 'FseOCTool'
+pod 'FseOCTool', '~> 0.0.2'
 
 end

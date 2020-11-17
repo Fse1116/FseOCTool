@@ -1,0 +1,6 @@
+framework module Pods_FseOCToolDemo {
+  umbrella header "Pods-FseOCToolDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
