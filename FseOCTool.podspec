@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "zbf" => "823074068@qq.com" } # 作者
   spec.source       = { :git => "https://github.com/Fse1116/FseOCTool.git", :tag => "#{spec.version}" }
     #你的仓库地址
-  spec.source_files  = "FseOCTool/**/*.{h,m}"# 你代码的位置
+  spec.source_files  = "FseOCTool"# 你代码的位置
   spec.platform     = :ios, "8.0" #平台及支持的最低版本
     
     
