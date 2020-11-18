@@ -13,9 +13,7 @@ Pod::Spec.new do |spec|
     #你的仓库地址
   spec.source_files  = "FseOCTool"# 你代码的位置
   spec.platform     = :ios, "8.0" #平台及支持的最低版本
-    
-    
-  s.frameworks   = "UIKit", "Foundation" #支持的框架
+  spec.frameworks   = "UIKit", "Foundation" #支持的框架
   # spec.frameworks = "SomeFramework", "AnotherFramework"
   # spec.requires_arc = true
   # s.dependency   = "AFNetworking" # 依赖库

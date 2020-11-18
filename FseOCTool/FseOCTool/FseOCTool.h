@@ -14,6 +14,5 @@
 #import "UIColor+FseColor.h"
 #import "FseOCTool.h"
 #import "FseMD5Encrypt.h"
-#import "SystemInfo.h"
 
 #endif /* FseOCTool_h */
