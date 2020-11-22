@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "FseOCTool" # 项目名称
-  spec.version      = "1.0.6"     # 版本号 与 你仓库的 标签号 对应
+  spec.version      = "1.0.7"     # 版本号 与 你仓库的 标签号 对应
   spec.summary      = "iOS 工具集合" # 项目简介
   spec.description  = <<-DESC
   这是一个iOS 工具集合
